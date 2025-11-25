@@ -12,7 +12,17 @@ client will call API before hitting API server will perform (Authentication(who 
   2) Basic authentication (user name and password)
         ex:freshdesk
   3) API-Key Based Authentication
-        ex:OpnecageGeoCoder
-  4) OAuth 1.0
+        ex:OpnecageGeoCoder,exchangeRate
+  4) OAuth 1.0 (deprecated) ex: twitter 
   5) OAuth 2.0
+      1) Web-server flow
+      2) User Agent flow
+      3) UserName and password flow
+      4) Refresh Token flow
+      5) JWT Bearer flow for server to server Integration
+      6) client credential flow for server to server Integration
+      7) Device Flow for IOT Device
+      8) SAML Bearer assertion flow for previously authorized app
+      9) PKCE
+     
 
