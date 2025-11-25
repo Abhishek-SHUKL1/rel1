@@ -1,1 +1,7 @@
+Video 10:
 
+1)Advanced Rest Client
+
+2)What is integration
+
+client will call API before hitting API server will perform (Authentication then authorization then response (success/fail))
