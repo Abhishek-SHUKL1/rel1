@@ -4,4 +4,15 @@ Video 10:
 
 2)What is integration
 
-client will call API before hitting API server will perform (Authentication then authorization then response (success/fail))
+client will call API before hitting API server will perform (Authentication(who are you) then authorization(what accesss you have )then response (success/fail))
+
+3) Types of Authentication
+
+  1) No authentication (not for salesforce)
+  2) Basic authentication (user name and password)
+        ex:freshdesk
+  3) API-Key Based Authentication
+        ex:OpnecageGeoCoder
+  4) OAuth 1.0
+  5) OAuth 2.0
+  6) JWT
