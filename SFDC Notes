@@ -15,4 +15,4 @@ client will call API before hitting API server will perform (Authentication(who 
         ex:OpnecageGeoCoder
   4) OAuth 1.0
   5) OAuth 2.0
-  6) JWT
+
