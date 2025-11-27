@@ -25,5 +25,9 @@ client will call API before hitting API server will perform (Authentication(who 
       8) SAML Bearer assertion flow for previously authorized app (will not study)
       9) PKCE
 4) Google chrome extension --->JSON Formatter
+
+5) HTTPRequest -->prepare request
+   http -->has send method that takes instance of HttpRequest and sends to thirdparty
+   HTTPResponse --->holds response
      
 
