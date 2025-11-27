@@ -26,8 +26,10 @@ client will call API before hitting API server will perform (Authentication(who 
       9) PKCE
 4) Google chrome extension --->JSON Formatter
 
-5) HTTPRequest -->prepare request
-   http -->has send method that takes instance of HttpRequest and sends to thirdparty
-   HTTPResponse --->holds response
+5) HttpRequest -->prepare request
+   Http -->has send method that takes instance of HttpRequest and sends to thirdparty
+   HttpResponse --->holds response
+
+6) api-->PS_CurrencyApiService
      
 
