@@ -30,6 +30,11 @@ client will call API before hitting API server will perform (Authentication(who 
    Http -->has send method that takes instance of HttpRequest and sends to thirdparty
    HttpResponse --->holds response
 
-6) api-->PS_CurrencyApiService
+6) api-->PS_CurrencyApiService,OpenCageGeoCoder
+
+7) ?.  ->safe navigation operator i.e it will check for null if value is null it will return null instead of going deep ex: object?.variable?.variable2
+if object is null then safe operator will throw null instead of null pointer exception.
+
+
      
 
