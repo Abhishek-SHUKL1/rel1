@@ -1,0 +1,1 @@
+Junction Object has 2 master detail field(this is for many to many relationship)...the one created first is called primary field and ownership is decided based on that and sharing rules are decided by both primary and secondary field.
